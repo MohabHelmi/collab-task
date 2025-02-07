@@ -1,3 +1,8 @@
 print("Hello!") 
 
-input("What is todays list? ")
+list = []
+
+
+add = input("What is todays list? ")
+
+list.append(add)
